@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:0 group-title="Sports ARG",DeporTV HD
+https://otakon.bemtv.cn/STREAM/11046/playlist.m3u8
+
+#EXTINF:0 group-title="Sports ARG",TV Publica HD
+https://otakon.bemtv.cn/STREAM/11042/playlist.m3u8
+
+#EXTINF:40 group-title="Sports ARG",TyC Sports HD
+https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",TyC Sports HD OPC 2
+https://bigboss.bemtv.cn/STREAM/22877/chunks.m3u8
+#EXTINF:0 group-title="Sports ARG",TyC Sports Int HD
+https://bigboss.bemtv.cn/STREAM/6810/chunks.m3u8
+
+#EXTINF:0 group-title="Sports ARG",Espn Premium HD
+https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",Tnt Sports HD
+https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
+
+#EXTINF:0 group-title="Sports ARG",Espn 1 HD ARG
+https://otakon.bemtv.cn/STREAM/474/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",Espn 2 HD ARG
+https://otakon.bemtv.cn/STREAM/22612/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",Espn 3 HD ARG
+https://otakon.bemtv.cn/STREAM/22651/playlist.m3u8
+
+#EXTINF:0 group-title="Sports ARG",Fox Sports 1 HD ARG
+https://bigboss.bemtv.cn/STREAM/23023/chunks.m3u8
+#EXTINF:0 group-title="Sports ARG",Fox Sports 2 HD ARG
+https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",Fox Sports 3 HD ARG
+https://bigboss.bemtv.cn/STREAM/23022/chunks.m3u8
+
+#EXTINF:0 group-title="Sports MEX",Fox Sports 1 HD MX
+https://bigboss.bemtv.cn/STREAM/22883/chunks.m3u8
+#EXTINF:40 group-title="Sports MEX",Fox Sports 2 HD MX
+https://otakon.bemtv.cn/STREAM/22890/playlist.m3u8
+#EXTINF:0 group-title="Sports MEX",Fox Sports 3 HD MX
+https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8
+#EXTINF:0 group-title="Sports MEX",Fox Sports Premium HD MX
+https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8
+#EXTINF:0 group-title="Sports MEX",Fox Deportes HD MX
+https://bigboss.bemtv.cn/STREAM/1736/chunks.m3u8
+#EXTINF:0 group-title="Sports MEX",Espn Deportes HD MX
+https://bigboss.bemtv.cn/STREAM/314/chunks.m3u8
+#EXTINF:0 group-title="Sports MEX",Espn Deportes HD MX OPC 2
+https://bigboss.bemtv.cn/STREAM/732/chunks.m3u8
+#EXTINF:0 group-title="Sports MEX",Tudn HD MX
+https://bigboss.bemtv.cn/STREAM/1735/chunks.m3u8
+
+#EXTINF:0 group-title="Sports DAZN",Dazn F1 HD
+https://bigboss.bemtv.cn/STREAM/23021/chunks.m3u8
+#EXTINF:0 group-title="Sports DAZN",Dazn 1 HD
+https://otakon.bemtv.cn/STREAM/22992/playlist.m3u8
+#EXTINF:0 group-title="Sports DAZN",Dazn 2 HD
+https://otakon.bemtv.cn/STREAM/22993/playlist.m3u8
+#EXTINF:0 group-title="Sports DAZN",Dazn 3 HD
+https://otakon.bemtv.cn/STREAM/23076/playlist.m3u8
+#EXTINF:0 group-title="Sports DAZN",Dazn La Liga HD
+https://bigboss.bemtv.cn/STREAM/23077/chunks.m3u8
+
+#EXTINF:0 group-title="Sports USA",FS1 USA HD
+https://bigboss.bemtv.cn/STREAM/339/chunks.m3u8
+#EXTINF:0 group-title="Sports USA",FS1 USA HD
+https://bigboss.bemtv.cn/STREAM/932/chunks.m3u8
+#EXTINF:40 group-title="Sports USA",Espn USA HD
+https://bigboss.bemtv.cn/STREAM/916/chunks.m3u8
+#EXTINF:0 group-title="Sports USA",Espn Network USA HD
+https://bigboss.bemtv.cn/STREAM/14756/chunks.m3u8
+
+#EXTINF:0 group-title="Sports BRA",Band Sports HD
+https://metalgear.bemtv.cn/STREAM/8318/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere Clubes HD
+https://otakon.bemtv.cn/STREAM/8307/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere 2 HD
+https://metalgear.bemtv.cn/STREAM/8306/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere 3 HD
+https://metalgear.bemtv.cn/STREAM/8304/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere 4 HD
+https://metalgear.bemtv.cn/STREAM/8302/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere 5 HD
+https://metalgear.bemtv.cn/STREAM/8300/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere 6 HD
+https://metalgear.bemtv.cn/STREAM/8298/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Premiere 7 HD
+https://metalgear.bemtv.cn/STREAM/8297/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Sport TV 1 HD
+https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Sport TV 2 HD
+https://metalgear.bemtv.cn/STREAM/8314/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Sport TV 3 HD
+https://metalgear.bemtv.cn/STREAM/8312/playlist.m3u8
+
+#EXTINF:0 group-title="Sports LATAM",Dsports+ HD
+https://otakon.bemtv.cn/STREAM/1383/chunks.m3u8
+
+#EXTINF:0 group-title="Sports LATAM",Tigo Sports HD CR
+https://otakon.bemtv.cn/STREAM/7495/chunks.m3u8
+
+#EXTINF:0 group-title="Sports LATAM",VTV HD
+https://otakon.bemtv.cn/STREAM/11531/playlist.m3u8
+#EXTINF:0 group-title="Sports LATAM",VTV Plus 
+https://metalgear.bemtv.cn/STREAM/23397/playlist.m3u8
+
+#EXTINF:0 group-title="Sports LATAM",Win Sports HD 
+https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
+#EXTINF:0 group-title="Sports LATAM",Win Sports+ HD 
+https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
+
+#EXTINF:0 group-title="Sports BRA",Espn 1 HD BR
+https://otakon.bemtv.cn/STREAM/8322/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Espn 2 HD BR
+https://metalgear.bemtv.cn/STREAM/8324/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Espn 3 HD BR
+https://metalgear.bemtv.cn/STREAM/22838/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Espn 4 HD BR
+https://metalgear.bemtv.cn/STREAM/8328/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Espn 5 HD BR
+https://metalgear.bemtv.cn/STREAM/8326/playlist.m3u8
+#EXTINF:0 group-title="Sports BRA",Espn 6 HD BR
+https://metalgear.bemtv.cn/STREAM/8320/playlist.m3u8
+
+#EXTINF:0 group-title="Sports ARG",Espn 1 HD (ARG)
+https://otakon.bemtv.cn/STREAM/474/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",Espn 2 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22612/playlist.m3u8
+#EXTINF:0 group-title="Sports ARG",Espn 3 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22651/playlist.m3u8
+
+#EXTINF:0 group-title="Sports MEX",ESPN 1 MX
+https://metalgear.bemtv.cn/STREAM/23624/playlist.m3u8
+#EXTINF:0 group-title="Sports MEX",ESPN 2 MX
+https://metalgear.bemtv.cn/STREAM/23625/playlist.m3u8
+#EXTINF:0 group-title="Sports MEX",ESPN 3 MX
+https://metalgear.bemtv.cn/STREAM/23626/playlist.m3u8
+#EXTINF:0 group-title="Sports MEX",Espn 2 HD NX OPC 2
+https://bigboss.bemtv.cn/STREAM/318/chunks.m3u8
+#EXTINF:0 group-title="Sports MEX",Espn 3 HD MX OPC 2
+https://bigboss.bemtv.cn/STREAM/317/chunks.m3u8
+#EXTINF:0 group-title="Sports MEX",Espn 4 HD MX OPC 2
+https://bigboss.bemtv.cn/STREAM/303/chunks.m3u8
+
+
+#EXTINF:0 group-title="Sports ESPN",Espn 1 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/711/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 2 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/588/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 3 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/708/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 4 HD (Norte)
+https://bigboss.bemtv.cn/STREAM/466/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 5 HD (Norte)
+https://otakon.bemtv.cn/STREAM/11608/playlist.m3u8
+
+
+#EXTINF:0 group-title="Sports ESPN",Espn 1 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/10923/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 2 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/11605/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 3 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/11468/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 5 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/22872/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 6 HD (Sur)
+https://bigboss.bemtv.cn/STREAM/305/chunks.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 6 HD (Sur) OPC 2
+https://bigboss.bemtv.cn/STREAM/11464/playlist.m3u8
+#EXTINF:0 group-title="Sports ESPN",Espn 7 HD (Sur)
+https://metalgear.bemtv.cn/STREAM/8518/playlist.m3u8
+
+#EXTINF:40 group-title="Sports LATAM",Futv HD
+https://bigboss.bemtv.cn/STREAM/320/chunks.m3u8
+
+
+
+
+
+
+
+
+
